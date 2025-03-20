@@ -12,3 +12,4 @@ WORKDIR $PROJECT_HOME
 EXPOSE 8080
 CMD ["java" ,"-jar","./spring-boot-mongo.jar"]
 # test-1
+# test-3

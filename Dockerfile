@@ -1,6 +1,6 @@
 FROM openjdk:8-alpine
 
-# Required for starting application up.test the datagg
+# Required for starting application up.test the datagg//
 RUN apk update && apk add /bin/sh
 
 RUN mkdir -p /opt/app
